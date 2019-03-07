@@ -1,0 +1,34 @@
+body { 
+	background-image : url("../images/image3.jpg"); 
+	background-size: cover;
+	background-position: center;
+    background-attachment: fixed;
+  }
+
+img {
+	background-image: url("../images/image1.jpg");
+    border-radius: 50%;
+}
+
+p { 
+	color:black; 
+	text-indent: 1em; 
+	margin-top: 2%; 
+	margin-bottom: 2%; 
+	margin-left: 15%; 
+	margin-right: 15%;
+	font-family:Impact;
+}
+
+h1 {
+	color:brown;
+	font-size: 30px;
+}
+
+h2 {
+	background-image : url("../images/image1.jpg");
+	color:#818181;
+	font-family:Arial Black;
+	font-size: 25px;
+}
+

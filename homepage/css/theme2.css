@@ -1,0 +1,67 @@
+
+body{
+  width: 75%;
+  border: 25px solid yellow;
+  padding: 50px;
+  text-align: left;
+}
+
+
+p {
+  padding: 1%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	text-align: left;
+}
+
+ul {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181; 
+}
+
+
+.topSection {
+  background-image: url('../images/image4.jpg');
+  background-size: cover;
+
+}
+
+.contactInfo {
+  line-height: 0.001;
+  padding: 0.1%;
+  font-size: 125%;
+  padding-top: 5%;
+}
+
+.sidenav {
+}
+
+.mainContent{
+  border: 20px solid navy;
+}
+
+.mainText {
+  color: grey;
+}
+
+.aboutMeImage {
+  float: right;
+}
+
+
+.myProfessionalHistoryImage {
+  float: right;
+}
+
+.skillsKnoowledgeImage {
+  float: right;
+}
+
+.keyInfo {
+  font-weight: bold;
+  text-indent: 5%;
+}
